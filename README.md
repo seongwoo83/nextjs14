@@ -1,0 +1,1 @@
+Start with Next JS 14!
